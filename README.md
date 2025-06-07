@@ -1,8 +1,5 @@
-# React + Vite
+The Hospital Appointment Management System is a full-stack web application designed to streamline the appointment booking process between patients and hospitals. It eliminates the need for manual records and long queues by allowing users to book appointments online with registered doctors based on their availability. The system enables patients to submit inquiries even without logging in, while appointment booking requires registration and login for security.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Admins have full control over managing doctors, reviewing appointment requests, approving or rejecting them, and setting weekly schedules for doctor availability. The application is built using the MERN stack — MongoDB, Express.js, React.js, and Node.js — ensuring modern performance, real-time updates, and a responsive user interface.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project aims to improve the patient experience, reduce workload for hospital staff, and digitize medical appointment workflows. Its modular design makes it scalable for future enhancements like online payments, reminders, and doctor-side dashboards.
